@@ -1,5 +1,4 @@
 # Sentiment Analysis Engine
-# Sentiment Analysis Engine
 
 ## Week 1
 
@@ -37,7 +36,7 @@
 
 ---
 #THE DEPLOYED MODEL
-![alt text](Screenshot from 2024-07-10 19-11-24.png)
+![alt text]('Screenshot from 2024-07-10 19-11-24.png')
 
 
 
