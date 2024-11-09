@@ -36,7 +36,7 @@
 
 ---
 #THE DEPLOYED MODEL
-![alt text]('Screenshot from 2024-07-10 19-11-24.png')
+![alt text](https://github.com/swatuu0602/Sentiment-Analysis-Engine/blob/main/Screenshot%20from%202024-11-09%2020-29-01.png)
 
 
 
