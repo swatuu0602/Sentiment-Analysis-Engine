@@ -83,6 +83,8 @@ Before starting, ensure you have the following installed:
 3. Run the application
     streamlit run app.py
 
+  !{alt_text](https://github.com/swatuu0602/Sentiment-Analysis-Engine/blob/main/components/Screenshot%20from%202024-11-09%2020-31-09.png)
+
 
 
 ## 🌐 Sources
